@@ -1,5 +1,7 @@
+# Hi 👋 I'm Arpit Mohaniya
+
 # 💫 About Me:
-🎯 I’m currently working on:<br>A full-stack Auction Platform using React, Node.js, MongoDB, and exploring ML integrations.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on:<br>Open-source web apps, MERN stack projects, Machine Learning models, and Java applications.<br><br>🤝 I’m looking for help with:<br>Scaling backends, deploying ML models, and writing clean Java code for production.<br><br>🌱 I’m currently learning:<br>TypeScript, advanced Java programming, ML algorithms, and cloud services (AWS/GCP).<br><br>💬 Ask me about:<br>JavaScript, React, Node.js, Express, Java, Machine Learning basics.<br><br>⚡ Fun fact:<br>I love building side projects that mix web development and AI!
+🎯 I’m currently working on:<br>A full-stack Auction Platform using React, Node.js, MongoDB.<br><br>🌱 I’m currently learning:<br>TypeScript, advanced Java programming, ML algorithms, and cloud services (AWS/GCP).<br><br>⚡ Fun fact:<br>I love building side projects that mix web development and AI!
 
 
 ## 🌐 Socials:
